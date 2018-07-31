@@ -3,7 +3,6 @@ import './App.css';
 
 import Header from './components/Header';
 import Slogan from './components/Slogan';
-// import ParaBg from './components/ParaBg';
 
 class App extends Component {
   render() {
