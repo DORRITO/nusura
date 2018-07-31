@@ -25,6 +25,10 @@
   position: relative;
 }
 
+.Center{
+  text-align: center;
+}
+
 /* //////app styles////// */
 .Navbar{
   align-items: center;

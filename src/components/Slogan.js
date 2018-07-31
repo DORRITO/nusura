@@ -7,7 +7,8 @@ class Slogan extends Component {
     return (
       <div>
         <div className="Parallax1"></div>
-        <Jumbotron>
+        <Jumbotron className="Center">
+          <h3>Helllllllllllllllloooo BreAnne!</h3>
           <div>UNIQUE EXPERIENCE</div>
           <div>INNOVATIVE TECHNOLOGIES</div>
           <h3>BUILDING A BETTER, SAFER, MORE RESILIENT FUTURE</h3>
