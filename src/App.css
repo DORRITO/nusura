@@ -22,7 +22,7 @@
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
-  position: fixed relative;
+  position: relative;
 }
 
 /* //////app styles////// */
@@ -43,9 +43,20 @@
   background-color: #AB433C;
 }
 
-.Grey{
-  /*  */
+.Parallax{ 
+  /* The image used */
+  background-image: url("https://nusura.staging.wpengine.com/wp-content/uploads/2018/07/page-home-1.jpg");
+
+  /* Set a specific height */
+  height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
 
 /* @keyframes App-logo-spin {
   from { transform: rotate(0deg); }

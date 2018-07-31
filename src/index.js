@@ -5,7 +5,4 @@ import App from './App';
 
 import { ParallaxProvider } from 'react-scroll-parallax';
 
-ReactDOM.render(
-    <ParallaxProvider>
-      <App />
-    </ParallaxProvider>, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
