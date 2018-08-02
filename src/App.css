@@ -30,6 +30,7 @@
   text-align: center;
   margin: 0;
   color: #FFF;
+  height: 125%;
 }
 
 /* //////app styles////// */
@@ -55,13 +56,14 @@
   background-image: url("https://nusura.staging.wpengine.com/wp-content/uploads/2018/07/page-home-1.jpg");
 
   /* Set a specific height */
-  height: 500px; 
+  height: 225px; 
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  margin: 0;
 }
 
 .Parallax2{ 

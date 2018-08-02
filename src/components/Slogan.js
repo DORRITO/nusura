@@ -16,6 +16,7 @@ class Slogan extends Component {
              <h4>BUILDING A BETTER, SAFER, MORE RESILIENT FUTURE</h4>
           </div>
         </Jumbotron>
+        <div className="Parallax1"></div>
         <div className="Parallax2"></div>
         <video src="https://player.vimeo.com/video/279141793?title=0&portrait=0&muted=1&autopause=0&loop=1&background=1&app_id=122963" autoplay loop type="video/mp4" className="Parallax3">
         </video>
