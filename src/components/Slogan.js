@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import { Image, Jumbotron } from "react-bootstrap";
+import { Jumbotron } from "react-bootstrap";
 
 class Slogan extends Component {
   render() {
