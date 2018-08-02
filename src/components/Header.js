@@ -34,19 +34,19 @@ class Header extends Component {
                 <MenuItem href="https://nusura.com/sectors/" target="_blank" eventKey={1.3}>Sectors We Serve</MenuItem>
                 <MenuItem href="https://nusura.com/team/" target="_blank" eventKey={1.3}>Our Team</MenuItem>
               </NavDropdown>
-              <NavItem eventKey={2} href="#">
+              <NavItem eventKey={2} target="_blank" href="https://nusura.com/products-services/">
                 Producs & Services
               </NavItem>
               <NavItem eventKey={3} target="_blank" href="https://nusura.com/simulationdeck/">
                 SimulationDeck
               </NavItem>
-              <NavItem eventKey={4} href="#">
+              <NavItem eventKey={4} target="_blank" href="https://nusura.com/case-studies/">
                 Case Studies
               </NavItem>
-              <NavItem eventKey={5} href="#">
+              <NavItem eventKey={5} target="_blank" href="https://nusura.com/news/">
                 News
               </NavItem>
-              <NavItem eventKey={6} href="#">
+              <NavItem eventKey={6} target="_blank" href="https://nusura.com/contact/">
                 Contact
               </NavItem>
             </Nav>
