@@ -80,7 +80,7 @@
 
   /* Set a specific height */
   height: 300px; 
-  margin-bottom: -125px;
+  /* margin-bottom: -125px; */
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -94,8 +94,9 @@
   background-image: url("https://player.vimeo.com/video/279141793?title=0&portrait=0&muted=1&autopause=0&loop=1&background=1&app_id=122963");
 
   /* Set a specific height */
-  /* height: 50vw; */
-  width: 1280px;
+  height: 90vh;
+  /* width: 1300px; */
+  width: 100vw;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
