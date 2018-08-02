@@ -18,7 +18,7 @@ class Slogan extends Component {
         </Jumbotron>
         <div className="Parallax1"></div>
         <div className="Parallax2"></div>
-        <iframe src="https://player.vimeo.com/video/279141793?title=0&amp;portrait=0&amp;muted=1&amp;autopause=0&amp;loop=1&amp;background=1&amp;app_id=122963" width="1280" height="360" frameborder="0" title="Big X Case Study" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" data-ready="true"></iframe>
+        <iframe className="Parallax3" src="https://player.vimeo.com/video/279141793?title=0&amp;portrait=0&amp;muted=1&amp;autopause=0&amp;loop=1&amp;background=1&amp;app_id=122963" width="1280" height="360" frameborder="0" title="Big X Case Study" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" data-ready="true"></iframe>
       </div>
     );
   }
