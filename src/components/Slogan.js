@@ -31,7 +31,6 @@ class Slogan extends Component {
         <iframe
           className="Parallax3"
           src="https://player.vimeo.com/video/279141793?title=0&amp;portrait=0&amp;muted=1&amp;autopause=0&amp;loop=1&amp;background=1&amp;app_id=122963"
-          width="1300px"
           frameBorder="0"
           title="Big X Case Study"
           webkitallowfullscreen=""

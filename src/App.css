@@ -80,7 +80,7 @@
 
   /* Set a specific height */
   height: 300px; 
-  margin-bottom: -115px;
+  margin-bottom: -125px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -95,7 +95,7 @@
 
   /* Set a specific height */
   height: 75vw;
-
+  width: 1300px;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
@@ -103,6 +103,9 @@
   background-size: cover;
 }
 
+iframe, object, embed {
+  max-width: 100%;
+}
 
 /* @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
